@@ -1,7 +1,7 @@
 <h1># Welcome to My GitHub Repository! ✋
 
 ## About Me 👨‍💼
-Hey there! I'm Nour Eddin, and I'm new to the world of Python. I'm currently studying data science and machine learning, and I have a strong interest in creating games and apps using Python. This GitHub repository is my space to share my projects and learnings as I explore the exciting possibilities that Python offers in the field of data science, machine learning, and game/app development.
+Hey there! I'm Nour Eddin, and I'm new to the world of Python. I'm currently studying data science and machine learning, and I have a strong interest in creating apps and games using Python. This GitHub repository is my space to share my projects and learnings as I explore the exciting possibilities that Python offers in the field of data science, machine learning, and apps development.
 
 ## What You'll Find Here 👨‍💻
  you can expect to find a variety of projects and code related to the following areas:
@@ -21,4 +21,4 @@ I'm always looking to learn and grow, so I'd love to connect with others who sha
 - [Email](noureddinofficial@gmail.com)
 
 
-Thank you for stopping by my GitHub repository 😊
+Thank you for stopping by my GitHub repository 🙌
