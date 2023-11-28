@@ -10,7 +10,6 @@ Hey there! I'm Nour Eddin, and I'm new to the world of Python. I'm currently stu
 
 - **Data Science**: I'll be sharing my data analysis and visualization projects, as I learn and work with data in Python.
 
-- **Game Development: My side hobby in Python involves creating games using Python, and I'll be documenting that journey here. I'm excited to experiment with various game development libraries and frameworks! 
 
 - **Machine Learning**: As I progress in my studies, I'll showcase my machine learning models and projects, experimenting with different algorithms and techniques.
 
